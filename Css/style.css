@@ -118,6 +118,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding-right: 50px;
 }
 
 .landing .container > img {
